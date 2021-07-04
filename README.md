@@ -2,7 +2,7 @@
 Compile-time generated junk code.\
 Uses __asm keyword to generate asm fuckery to generate specific junk code.
 # Library Capabilities
-Prevention of static byte/signature scanning.\
+Prevention of static byte/signature scanning on already existing code.\
 Slight confusion and obfuscation.\
 File size pumping.\
 etc
